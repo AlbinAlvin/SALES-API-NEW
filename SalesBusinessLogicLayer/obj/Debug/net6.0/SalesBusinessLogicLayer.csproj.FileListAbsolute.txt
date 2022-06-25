@@ -1,0 +1,12 @@
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\bin\Debug\net6.0\SalesBusinessLogicLayer.deps.json
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\bin\Debug\net6.0\SalesBusinessLogicLayer.dll
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\bin\Debug\net6.0\SalesBusinessLogicLayer.pdb
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\obj\Debug\net6.0\SalesBusinessLogicLayer.csproj.AssemblyReference.cache
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\obj\Debug\net6.0\SalesBusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\obj\Debug\net6.0\SalesBusinessLogicLayer.AssemblyInfoInputs.cache
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\obj\Debug\net6.0\SalesBusinessLogicLayer.AssemblyInfo.cs
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\obj\Debug\net6.0\SalesBusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\obj\Debug\net6.0\SalesBusinessLogicLayer.dll
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\obj\Debug\net6.0\refint\SalesBusinessLogicLayer.dll
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\obj\Debug\net6.0\SalesBusinessLogicLayer.pdb
+F:\Sales\API\sales-billing-api\Sales\SalesBusinessLogicLayer\obj\Debug\net6.0\ref\SalesBusinessLogicLayer.dll

@@ -1,0 +1,12 @@
+F:\Sales\API\sales-billing-api\Sales\SalesModel\bin\Debug\net6.0\SalesModel.deps.json
+F:\Sales\API\sales-billing-api\Sales\SalesModel\bin\Debug\net6.0\SalesModel.dll
+F:\Sales\API\sales-billing-api\Sales\SalesModel\bin\Debug\net6.0\SalesModel.pdb
+F:\Sales\API\sales-billing-api\Sales\SalesModel\obj\Debug\net6.0\SalesModel.csproj.AssemblyReference.cache
+F:\Sales\API\sales-billing-api\Sales\SalesModel\obj\Debug\net6.0\SalesModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sales\API\sales-billing-api\Sales\SalesModel\obj\Debug\net6.0\SalesModel.AssemblyInfoInputs.cache
+F:\Sales\API\sales-billing-api\Sales\SalesModel\obj\Debug\net6.0\SalesModel.AssemblyInfo.cs
+F:\Sales\API\sales-billing-api\Sales\SalesModel\obj\Debug\net6.0\SalesModel.csproj.CoreCompileInputs.cache
+F:\Sales\API\sales-billing-api\Sales\SalesModel\obj\Debug\net6.0\SalesModel.dll
+F:\Sales\API\sales-billing-api\Sales\SalesModel\obj\Debug\net6.0\refint\SalesModel.dll
+F:\Sales\API\sales-billing-api\Sales\SalesModel\obj\Debug\net6.0\SalesModel.pdb
+F:\Sales\API\sales-billing-api\Sales\SalesModel\obj\Debug\net6.0\ref\SalesModel.dll
